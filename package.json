@@ -1,0 +1,24 @@
+{
+    "author": "frank.steinbach@gmx.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "wakeup.c",
+    "pebble": {
+        "displayName": "wakeup.c",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "20d98f35-0b01-4462-8102-82f7a4acae1c",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
